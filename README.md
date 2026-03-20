@@ -1,10 +1,11 @@
 <div align="center">
 
-# Arthur Reis 🤠
+<img src="https://i.pinimg.com/originals/80/2e/d8/802ed883839fbca053822daca454a0bb.gif" width="200"/>
+
+### Arthur Reis 👑
 
 </div>
 
----
 
 ## About Me
 

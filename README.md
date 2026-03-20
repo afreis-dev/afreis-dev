@@ -1,27 +1,58 @@
-# About me
+<div align="center">
 
--  Computer Science student at **CESAR School**  
--  Desenvolvendo um **roguelike procedural em ASCII**
--  Aprimorando minhas habilidades em Python, JS e C  
+# Arthur Reis 🤠
+
+</div>
+
+---
+
+## About Me
+
+- Estudante de Ciência da Computação na **CESAR School**
+- Desenvolvendo um **roguelike procedural em ASCII**
+- Aprimorando habilidades em **Python, JavaScript e C**
+- Interessado em **sistemas, backend e game dev**
 
 ---
 
-# My Skills
 
-### Applications and Data  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### Programming  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Desenvolvedor em formação | Foco em Backend, Sistemas e Game Dev**
 
-### DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br>
 
-### Development Tools  
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afreis-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afsr@cesar.school)
+
+</div>
 
 ---
+
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=afreis-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreis-dev&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+## Tecnologias
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
